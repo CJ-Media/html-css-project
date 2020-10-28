@@ -1,10 +1,18 @@
-h1 {
-color: red;
-text-decoration: underline;
-}
-<div>
-.banner-image img{
-    width: 216px;
-    height: 100%;
-}
-}
+.text-centered {
+    text-align: center;
+  }
+  
+  .dark-background {
+    background-color: orange;
+    color: white;
+  }
+  
+  .light-background {
+    background-color: #c8d2e0;
+    color: #1E1E1E;
+  }
+  
+  .wrapper {
+    width: 300px;
+    margin: auto;
+  }
