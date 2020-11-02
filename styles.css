@@ -1,18 +1,27 @@
-.text-centered {
-    text-align: center;
+.wrapper {
+    margin: 0 auto;
+    width: 398px;
+}
+
+.img-carmel_s__pic {
+    width: 374px;
+    height: 666px;
+    background-image: url(img/carmel_s__pic);
+    backgrouns-size: 100%;
+}
+
+background { color: blueviolet;
+
+}
+header {
+    background-color: plum;
+  }
+  body {
+      background-color: plum
+  }
+
+  ol, ul {
+      list-style-type; none:
+  text-align: center;
   }
   
-  .dark-background {
-    background-color: orange;
-    color: white;
-  }
-  
-  .light-background {
-    background-color: #c8d2e0;
-    color: #1E1E1E;
-  }
-  
-  .wrapper {
-    width: 300px;
-    margin: auto;
-  }
